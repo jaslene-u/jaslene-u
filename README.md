@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 
+
+#### Is **Jaslene** here!
+<br>
+
+Welcome to my Github!
+<br>
+<br>
+<ul>
+  <li>Selangor,Malaysia</li>
+  <li>UTM First year Data Engineering Student</li>
+  <li>Currently exploring C++</li>
+</ul>
+<br>
+
+<img src="https://static.wikia.nocookie.net/spiderman/images/a/ad/Peter_Parker_%28Earth-616%29_017.png/revision/latest?cb=20210807043502" />
+
+<br>
+<br>
+
+##  "With great power comes great responsibility."
 
 
-**jaslene-u/jaslene-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Drop me a msg via
+<br>
+<br>
+<button><a href="https://www.instagram.com/jaslene_u/ ">jaslene_u</a></button>
+<br>
+<br>
+jaslene.u913@gmail.com
